@@ -1,0 +1,9 @@
+[package]
+name = "pieced"
+version = "0.1.0"
+edition = "2021"
+categories = ["no-std"]
+license = "MIT"
+keywords = ["chunk", "piece"]
+repository = "https://github.com/bend-n/pieced"
+description = "[T]::as_chunks in stable rust"
